@@ -38,7 +38,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>351</Count>
+          <Count>353</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -486,7 +486,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'ServerApplication'</Description>
-          <Count>2184</Count>
+          <Count>2187</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Springboot01CrawlerApplication'">
@@ -582,7 +582,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2192</Count>
+          <Count>2194</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -2174,7 +2174,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'GeneratorApplication'</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Jetty 9'">
@@ -2350,7 +2350,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ServerApplication'</Description>
-          <Count>579</Count>
+          <Count>580</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SmsUtilsTest.test'">
