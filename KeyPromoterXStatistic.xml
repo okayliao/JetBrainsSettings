@@ -486,7 +486,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'ServerApplication'</Description>
-          <Count>2243</Count>
+          <Count>2253</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Springboot01CrawlerApplication'">
@@ -582,7 +582,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2211</Count>
+          <Count>2219</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -710,7 +710,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>995</Count>
+          <Count>996</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
