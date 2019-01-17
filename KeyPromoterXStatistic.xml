@@ -86,7 +86,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>1174</Count>
+          <Count>1176</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -486,7 +486,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'ServerApplication'</Description>
-          <Count>2256</Count>
+          <Count>2262</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Springboot01CrawlerApplication'">
@@ -582,7 +582,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2231</Count>
+          <Count>2239</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -710,7 +710,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>1007</Count>
+          <Count>1013</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -1318,7 +1318,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>2998</Count>
+          <Count>3000</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2494,7 +2494,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>2154</Count>
+          <Count>2157</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
