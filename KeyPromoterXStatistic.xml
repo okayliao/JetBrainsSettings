@@ -417,6 +417,14 @@
           <Count>16</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'OetskyApplication'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'OetskyApplication'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'QifanweikeApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -2271,6 +2279,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'NumAddSub'</Description>
           <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OetskyApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'OetskyApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'QifanweikeApplication'">
