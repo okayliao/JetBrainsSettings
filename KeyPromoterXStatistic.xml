@@ -598,7 +598,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2306</Count>
+          <Count>2308</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -662,7 +662,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>299</Count>
+          <Count>301</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -726,7 +726,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>1037</Count>
+          <Count>1043</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
