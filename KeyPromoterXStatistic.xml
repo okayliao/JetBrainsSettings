@@ -86,7 +86,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>1182</Count>
+          <Count>1183</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -287,6 +287,14 @@
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'ErrorCodeEnum'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'GenerateIdTest.generateId'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'GenerateIdTest.generateId'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'GeneratorApplication'">
@@ -598,7 +606,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2314</Count>
+          <Count>2315</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -951,6 +959,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'EateryServerApplication'</Description>
           <Count>69</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'GenerateIdTest.generateId'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'GenerateIdTest.generateId'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'HelloWorld'">
@@ -1518,7 +1534,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'GenerateIdTest.generateId'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'GeneratorApplication'">
