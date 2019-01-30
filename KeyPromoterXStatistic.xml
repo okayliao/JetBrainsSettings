@@ -38,7 +38,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>407</Count>
+          <Count>408</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
