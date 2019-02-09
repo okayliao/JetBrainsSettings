@@ -430,7 +430,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'OetSkyApplication'</Description>
-          <Count>548</Count>
+          <Count>549</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'OetskyApplication'">
@@ -2542,7 +2542,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>38</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
