@@ -438,7 +438,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'OetSkyApplicationApplication'</Description>
-          <Count>32</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'OetskyApplication'">
@@ -2374,7 +2374,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'OetSkyApplicationApplication'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'OetskyApplication'">
