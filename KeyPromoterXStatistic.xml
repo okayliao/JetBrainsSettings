@@ -86,7 +86,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>1193</Count>
+          <Count>1194</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -606,7 +606,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2374</Count>
+          <Count>2375</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
