@@ -38,7 +38,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>433</Count>
+          <Count>437</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -430,7 +430,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'OetSkyApplication'</Description>
-          <Count>587</Count>
+          <Count>595</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'OetSkyApplicationApplication'">
@@ -447,6 +447,14 @@
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'OetskyApplication'</Description>
           <Count>22</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'OkayLiaoApplication'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'OkayLiaoApplication'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'QifanweikeApplication'">
@@ -614,7 +622,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2405</Count>
+          <Count>2406</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -2366,7 +2374,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'OetSkyApplication'</Description>
-          <Count>149</Count>
+          <Count>150</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'OetSkyApplicationApplication'">
@@ -2383,6 +2391,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'OetskyApplication'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OkayLiaoApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'OkayLiaoApplication'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'QifanweikeApplication'">
