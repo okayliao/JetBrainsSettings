@@ -38,7 +38,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>437</Count>
+          <Count>444</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -622,7 +622,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2407</Count>
+          <Count>2411</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -686,7 +686,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>319</Count>
+          <Count>320</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
