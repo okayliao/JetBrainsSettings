@@ -86,7 +86,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>1192</Count>
+          <Count>1193</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -454,7 +454,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'OkayLiaoApplication'</Description>
-          <Count>6</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'QifanweikeApplication'">
@@ -622,7 +622,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2418</Count>
+          <Count>2420</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -750,7 +750,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>1054</Count>
+          <Count>1055</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -1374,7 +1374,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>3040</Count>
+          <Count>3041</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2374,7 +2374,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'OetSkyApplication'</Description>
-          <Count>153</Count>
+          <Count>154</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'OetSkyApplicationApplication'">
@@ -2398,7 +2398,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'OkayLiaoApplication'</Description>
-          <Count>3</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'QifanweikeApplication'">
@@ -2630,7 +2630,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>2210</Count>
+          <Count>2212</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
