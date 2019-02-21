@@ -430,7 +430,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'OetSkyApplication'</Description>
-          <Count>635</Count>
+          <Count>636</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'OetSkyApplicationApplication'">
@@ -622,7 +622,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2424</Count>
+          <Count>2425</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -646,6 +646,14 @@
           <IdeaActionID>DatabaseView.CopyAction</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Duplicate</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Evaluate Expression...">
+        <Item>
+          <IdeaActionID>EvaluateExpression</IdeaActionID>
+          <ShortCut>'Alt+F8'</ShortCut>
+          <Description>Evaluate Expression...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -2598,7 +2606,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>38</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
