@@ -430,7 +430,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'OetSkyApplication'</Description>
-          <Count>612</Count>
+          <Count>615</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'OetskyApplication'">
@@ -439,6 +439,14 @@
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'OetskyApplication'</Description>
           <Count>22</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'OkayLiaoApplication'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'OkayLiaoApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'QifanweikeApplication'">
