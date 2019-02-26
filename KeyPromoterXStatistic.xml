@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>439</Count>
+          <Count>440</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AESUtil'">
@@ -526,7 +526,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'ServerApplication'</Description>
-          <Count>2383</Count>
+          <Count>2385</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Springboot01CrawlerApplication'">
@@ -2486,7 +2486,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ServerApplication'</Description>
-          <Count>625</Count>
+          <Count>627</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SmsUtilsTest.test'">
