@@ -526,7 +526,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'ServerApplication'</Description>
-          <Count>2352</Count>
+          <Count>2354</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Springboot01CrawlerApplication'">
@@ -2054,7 +2054,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show All Affected Files">
@@ -2486,7 +2486,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ServerApplication'</Description>
-          <Count>613</Count>
+          <Count>614</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SmsUtilsTest.test'">
