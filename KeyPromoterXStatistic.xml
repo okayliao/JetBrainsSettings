@@ -2486,7 +2486,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ServerApplication'</Description>
-          <Count>640</Count>
+          <Count>641</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SmsUtilsTest.test'">
