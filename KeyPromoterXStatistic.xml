@@ -526,7 +526,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'ServerApplication'</Description>
-          <Count>2411</Count>
+          <Count>2413</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Springboot01CrawlerApplication'">
@@ -846,7 +846,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'⌘;'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>88</Count>
+          <Count>90</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -2678,7 +2678,15 @@
           <IdeaActionID>$Undo</IdeaActionID>
           <ShortCut>'⌘Z'</ShortCut>
           <Description>Undo</Description>
-          <Count>2</Count>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Undo Reverted to 'Undo Replace' at ...">
+        <Item>
+          <IdeaActionID>$Undo</IdeaActionID>
+          <ShortCut>'Ctrl+Z' or 'Alt+Backspace'</ShortCut>
+          <Description>Undo Reverted to 'Undo Replace' at ...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'Jetty 9' application">
