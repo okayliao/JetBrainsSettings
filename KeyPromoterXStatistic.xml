@@ -2054,7 +2054,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>30</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show All Affected Files">
@@ -2486,7 +2486,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ServerApplication'</Description>
-          <Count>643</Count>
+          <Count>644</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SmsUtilsTest.test'">
