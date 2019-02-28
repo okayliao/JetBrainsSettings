@@ -526,7 +526,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'ServerApplication'</Description>
-          <Count>2418</Count>
+          <Count>2419</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Springboot01CrawlerApplication'">
