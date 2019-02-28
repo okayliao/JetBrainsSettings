@@ -11,8 +11,8 @@
     <mask>*.xml</mask>
     <mask>*.vm</mask>
     <mask>*.java</mask>
-    <mask>*.js</mask>
     <mask>*.html</mask>
     <mask>*.css</mask>
+    <mask>*.js</mask>
   </component>
 </application>
