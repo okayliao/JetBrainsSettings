@@ -5,8 +5,4 @@
     <option name="UI_COMPACT_EMPTY_MIDDLE_PACKAGES" value="false" />
     <option name="SCOPE_TYPE" value="file" />
   </component>
-  <component name="UISettings">
-    <option name="SHOW_MEMORY_INDICATOR" value="true" />
-    <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
-  </component>
 </application>
