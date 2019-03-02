@@ -25,6 +25,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Disconnect">
+        <Item>
+          <IdeaActionID>DatabaseView.CloseConnectionAction</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Disconnect</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Reformat Code">
         <Item>
           <IdeaActionID>ReformatCode</IdeaActionID>
@@ -55,6 +63,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'ServerApplication'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Synchronize">
+        <Item>
+          <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
+          <ShortCut>'⌥⌘Y'</ShortCut>
+          <Description>Synchronize</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
