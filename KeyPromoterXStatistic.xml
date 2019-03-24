@@ -54,7 +54,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'ServerApplication'</Description>
-          <Count>256</Count>
+          <Count>263</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -230,7 +230,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'ServerApplication'</Description>
-          <Count>105</Count>
+          <Count>107</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -262,6 +262,14 @@
           <IdeaActionID>$EditorTranslateAction</IdeaActionID>
           <ShortCut>'⌃⌘U'</ShortCut>
           <Description>Translate</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="go to definition">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'⌘B'</ShortCut>
+          <Description>go to definition</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
