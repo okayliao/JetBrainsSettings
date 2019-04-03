@@ -54,7 +54,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'ServerApplication'</Description>
-          <Count>282</Count>
+          <Count>283</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -78,7 +78,7 @@
           <IdeaActionID>DatabaseView.CloseConnectionAction</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Disconnect</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -230,7 +230,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'ServerApplication'</Description>
-          <Count>111</Count>
+          <Count>112</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -286,7 +286,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
     </option>
