@@ -54,7 +54,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'ServerApplication'</Description>
-          <Count>322</Count>
+          <Count>325</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -150,7 +150,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'⌘;'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reformat Code">
@@ -206,7 +206,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>13</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
