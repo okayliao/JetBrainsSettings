@@ -70,7 +70,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'ServerApplication'</Description>
-          <Count>345</Count>
+          <Count>346</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
