@@ -78,7 +78,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'ServerApplication'</Description>
-          <Count>354</Count>
+          <Count>355</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Tomcat 8.5.42'">
